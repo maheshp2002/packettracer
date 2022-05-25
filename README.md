@@ -1,3 +1,5 @@
+# How to download:
+
 To download, copy following command and paste it on terminal by clicking ( shift key + ctrl + v ) command:
 
 #  sudo git clone https://github.com/maheshp2002/packettracer.git
@@ -12,7 +14,9 @@ folder there you can find the code named 3router.pkt (10th exp), just open in in
 
 # //....................................................................................................
 
-# Two router case
+# Other examples:
+
+# (1) Two router case
 
 Delete the router in middle:
 
@@ -33,7 +37,7 @@ click on second router and then click on static and add following:
 # //....................................................................................................
 
 
-# One router 4 pc:
+# (2) One router 4 pc:
 
 ![Screenshot (398)](https://user-images.githubusercontent.com/95010740/170201013-8ed6a76a-cbb9-4daa-b2c4-a8b9c2bbdaef.png)
 
