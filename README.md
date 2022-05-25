@@ -1,5 +1,4 @@
-To download, copy following command and paste it on terminal by clicking ( shift key + ctrl + v ):
-command:
+To download, copy following command and paste it on terminal by clicking ( shift key + ctrl + v ) command:
 
 #  sudo git clone https://github.com/maheshp2002/packettracer.git
 
