@@ -60,5 +60,6 @@
 
 ![Screenshot (397)](https://user-images.githubusercontent.com/95010740/170201816-831e06d2-cbc5-48c3-ab45-2a041e3821c5.png)
 
-For other examples just change ip or add new pc if req.
+
+# For other examples just change ip or add new pc if req.
 
