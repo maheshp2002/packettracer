@@ -1,9 +1,11 @@
 To download copy following command and paste it on terminal using by clicking ( shift key + ctrl + v):
 command:
 
-sudo git clone https://github.com/maheshp2002/packettracer.git
+  sudo git clone https://github.com/maheshp2002/packettracer.git
 
-Now check on "files > Home > packettracer" folder there you can find the code named 3router.pkt(10th exp), just open in in packettracer
+Now check on 
+#   "files (your linux file manager) > Home > packettracer" folder 
+there you can find the code named 3router.pkt(10th exp), just open in in packettracer
 
 # Three router connection:
 
