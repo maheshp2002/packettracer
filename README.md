@@ -16,7 +16,7 @@ folder there you can find the file named "3router.pkt" (10th exp), just open it 
 
 # Other examples:
 
-# (1) Two router case
+# (1) Two router case:
 
 Delete the router in middle:
 
