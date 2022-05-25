@@ -6,7 +6,7 @@ To download, copy following command and paste it on terminal by clicking ( shift
 
 Now check on 
 #   "files (your linux file manager) > Home > packettracer" 
-folder there you can find the code named "3router.pkt" (10th exp), just open it in packettracer.
+folder there you can find the file named "3router.pkt" (10th exp), just open it in packettracer.
 
 # Three router connection:
 
