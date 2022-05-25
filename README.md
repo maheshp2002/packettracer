@@ -8,7 +8,7 @@ Now check on
 #   "files (your linux file manager) > Home > packettracer" 
 folder there you can find the file named "3router.pkt" (10th exp), just open it in packettracer.
 
-# Three router connection:
+# (1) Three router connection:
 
 ![Screenshot (385)](https://user-images.githubusercontent.com/95010740/170197175-ed006aa6-a578-4e38-9547-1efdb2426316.png)
 
@@ -16,7 +16,7 @@ folder there you can find the file named "3router.pkt" (10th exp), just open it 
 
 # Other examples:
 
-# (1) Two router case:
+# (2) Two router case:
 
 Delete the router in middle:
 
@@ -37,7 +37,7 @@ click on second router and then click on static and add following:
 # //....................................................................................................
 
 
-# (2) One router 4 pc:
+# (3) One router 4 pc:
 
 ![Screenshot (398)](https://user-images.githubusercontent.com/95010740/170201013-8ed6a76a-cbb9-4daa-b2c4-a8b9c2bbdaef.png)
 
