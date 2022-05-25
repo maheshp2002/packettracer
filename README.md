@@ -1,8 +1,9 @@
 # To download copy following command and paste it on terminal using by clicking ( shift key + ctrl + v):
 # command:
 
-# sudo git clone 
+# sudo git clone https://github.com/maheshp2002/packettracer.git
 
+# Now check on "files > Home > packettracer" folder there you can find the code named 3router.pkt(10th exp), just open in in packettracer
 
 # Three router connection:
 
@@ -58,4 +59,6 @@
 # Click on router and change fastethernet 0/1 to:
 
 ![Screenshot (397)](https://user-images.githubusercontent.com/95010740/170201816-831e06d2-cbc5-48c3-ab45-2a041e3821c5.png)
+
+For other examples just change ip or add new pc if req.
 
